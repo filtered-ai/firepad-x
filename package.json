@@ -1,36 +1,21 @@
 {
-  "name": "@hackerrank/firepad",
+  "name": "@filtered/firepad",
   "description": "Collaborative text editing powered by Firebase",
   "version": "0.3.1",
   "author": {
-    "email": "bprogyan@gmail.com",
-    "name": "Progyan Bhattacharya",
-    "url": "https://github.com/Progyan1997"
   },
   "contributors": [
-    "Michael Lehenbauer <michael@firebase.com>",
-    "Brijesh Bittu <brijesh@hackerrank.com>",
-    "Nishchay Kaushik <nishchay@hackerrank.com>",
-    "Mohanasundar <mohana.sundar@hackerrank.com>",
-    "Shubham Shekhar <shubhamshekhar567@gmail.com>"
   ],
   "maintainers": [
-    {
-      "email": "developers@hackerrank.com",
-      "name": "HackerRank",
-      "url": "https://hackerrank.com"
-    },
-    "Firebase (https://firebase.google.com/)"
   ],
   "homepage": "http://www.firepad.io/",
   "repository": {
     "type": "git",
-    "url": "https://github.com/interviewstreet/firepad-x.git"
+    "url": "https://github.com/filtered-ai/firepad-x.git"
   },
   "bugs": {
-    "url": "https://github.com/interviewstreet/firepad-x/issues"
+    "url": "https://github.com/filtered-ai/firepad-x/issues"
   },
-  "license": "MIT",
   "keywords": [
     "text",
     "word",
