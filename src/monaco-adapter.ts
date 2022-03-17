@@ -418,7 +418,8 @@ export class MonacoAdapter implements IEditorAdapter {
    */
   protected _getPreviousContentInRange(range?: monaco.Range): string {
     const model = this._getModel();
-    const eol = model ? model.getEOL() : Utils.EndOfLineSequence.LF;
+    // use Utils.EndOfLineSequence.LF for all system to avoid realtime data sync issues
+    const eol = Utils.EndOfLineSequence.LF;
 
     if (!range) {
       return this._lastDocLines.join(eol);
