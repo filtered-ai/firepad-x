@@ -417,7 +417,6 @@ export class MonacoAdapter implements IEditorAdapter {
    * @param range - Range of the editor to pick content from (optional).
    */
   protected _getPreviousContentInRange(range?: monaco.Range): string {
-    const model = this._getModel();
     // use Utils.EndOfLineSequence.LF for all system to avoid realtime data sync issues
     const eol = Utils.EndOfLineSequence.LF;
 
