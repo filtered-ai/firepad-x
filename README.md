@@ -1,10 +1,8 @@
 # Firepad
 
-[![Deployment](https://github.com/interviewstreet/firepad-x/actions/workflows/npm-deploy.yml/badge.svg)](https://github.com/interviewstreet/firepad-x/actions/workflows/npm-deploy.yml)
-[![Maintainability](https://api.codeclimate.com/v1/badges/ced47d99ff8a6fcf623c/maintainability)](https://codeclimate.com/repos/60cb4682ff69b40116002c66/maintainability)
-[![Test Coverage](https://api.codeclimate.com/v1/badges/ced47d99ff8a6fcf623c/test_coverage)](https://codeclimate.com/repos/60cb4682ff69b40116002c66/test_coverage)
 [![Node Version](https://img.shields.io/node/v/@filtered/firepad)](https://nodejs.org)
 [![Version](https://img.shields.io/npm/v/@filtered/firepad?label=stable&color=%2300)](https://www.npmjs.com/package/@filtered/firepad)
+[![Test Coverage](https://api.codeclimate.com/v1/badges/ced47d99ff8a6fcf623c/test_coverage)](https://codeclimate.com/repos/60cb4682ff69b40116002c66/test_coverage)
 [![Beta Version](https://img.shields.io/npm/v/@filtered/firepad/beta?label=beta)](https://www.npmjs.com/package/@filtered/firepad)
 [![Weekly Downloads](https://img.shields.io/npm/dw/@filtered/firepad)](https://www.npmjs.com/package/@filtered/firepad)
 [![Built With](https://img.shields.io/badge/built%20with-webpack-green)](https://webpack.js.org)
@@ -12,12 +10,12 @@
 [![Typed With](https://img.shields.io/npm/types/@filtered/firepad?label=typed%20with)](https://www.typescriptlang.org)
 [![Styled With](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square&label=styled%20with)](https://prettier.io)
 [![License](https://img.shields.io/npm/l/@filtered/firepad)](LICENSE)
-[![Open Issues](https://img.shields.io/github/issues-raw/interviewstreet/firepad-x)](https://github.com/interviewstreet/firepad-x/issues)
-[![Closed Issues](https://img.shields.io/github/issues-closed-raw/interviewstreet/firepad-x)](https://github.com/interviewstreet/firepad-x/issues?q=is%3Aissue+is%3Aclosed)
-[![Open Pulls](https://img.shields.io/github/issues-pr-raw/interviewstreet/firepad-x)](https://github.com/interviewstreet/firepad-x/pulls)
-[![Closed Pulls](https://img.shields.io/github/issues-pr-closed-raw/interviewstreet/firepad-x)](https://github.com/interviewstreet/firepad-x/pulls?q=is%3Apr+is%3Aclosed)
-[![Contributors](https://img.shields.io/github/contributors/interviewstreet/firepad-x)](https://github.com/interviewstreet/firepad-x/graphs/contributors)
-[![Activity](https://img.shields.io/github/last-commit/interviewstreet/firepad-x?label=most%20recent%20activity)](https://github.com/interviewstreet/firepad-x/pulse)
+[![Open Issues](https://img.shields.io/github/issues-raw/filtered-ai/firepad-x)](https://github.com/filtered-ai/firepad-x/issues)
+[![Closed Issues](https://img.shields.io/github/issues-closed-raw/filtered-ai/firepad-x)](https://github.com/filtered-ai/firepad-x/issues?q=is%3Aissue+is%3Aclosed)
+[![Open Pulls](https://img.shields.io/github/issues-pr-raw/filtered-ai/firepad-x)](https://github.com/filtered-ai/firepad-x/pulls)
+[![Closed Pulls](https://img.shields.io/github/issues-pr-closed-raw/filtered-ai/firepad-x)](https://github.com/filtered-ai/firepad-x/pulls?q=is%3Apr+is%3Aclosed)
+[![Contributors](https://img.shields.io/github/contributors/filtered-ai/firepad-x)](https://github.com/filtered-ai/firepad-x/graphs/contributors)
+[![Activity](https://img.shields.io/github/last-commit/filtered-ai/firepad-x?label=most%20recent%20activity)](https://github.com/filtered-ai/firepad-x/pulse)
 
 ## History
 
