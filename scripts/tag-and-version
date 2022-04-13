@@ -9,7 +9,7 @@ const packageJSON = require("../package.json");
 
 const Headers = {
   Authorization: `token ${process.env.GITHUB_TOKEN}`,
-  "User-Agent": "HackerRank internal tools",
+  "User-Agent": "Filtered internal tools",
 };
 
 const Tags = Object.freeze({

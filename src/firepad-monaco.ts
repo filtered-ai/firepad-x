@@ -1,4 +1,5 @@
-import firebase from "firebase";
+import firebase from "firebase/compat/app";
+import "firebase/compat/database";
 import * as monaco from "monaco-editor";
 import { v4 as uuid } from "uuid";
 
