@@ -67,7 +67,7 @@ Good to have: commit or PR links.
 
 ### Changed
 
-- Renamed package from `firepad-x` to `@hackerrank/firepad`.
+- Renamed package from `firepad-x` to `@filtered/firepad`.
 - Migrated codebase to Typescript with emphasis upon Adapter Pattern (Hexagonal Architecture).
 - Exposed multiple interfaces to allow each moving parts to work sustainably without actually depending on them.
 - Interfaces also allows consumer application to put forward custom implementation of part of the product.
