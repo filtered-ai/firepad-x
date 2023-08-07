@@ -27,7 +27,7 @@ Good to have: commit or PR links.
 ### Changed
 
 - Bump version of `firebase` packages to `10.1.0`.
-- Bump version of `monaco-editor` packages to `0.41.0`.
+- Bump version of `monaco-editor` packages to `0.40.0`.
 - Bump version of `monaco-editor-webpack-plugin` packages to `7.1.0`.
 - Bump version of `typescript` packages to `4.9.5`.
 

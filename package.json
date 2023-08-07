@@ -38,7 +38,7 @@
   },
   "peerDependencies": {
     "firebase": "10.1.0",
-    "monaco-editor": "0.41.0"
+    "monaco-editor": "0.40.0"
   },
   "dependencies": {
     "@operational-transformation/plaintext": "0.1.1",
@@ -64,7 +64,7 @@
     "git-format-staged": "2.1.1",
     "husky": "^7.0.0",
     "jest": "27.0.3",
-    "monaco-editor": "0.41.0",
+    "monaco-editor": "0.40.0",
     "monaco-editor-webpack-plugin": "7.1.0",
     "prettier": "2.2.1",
     "rimraf": "3.0.2",
