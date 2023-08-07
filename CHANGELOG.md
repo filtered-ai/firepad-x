@@ -22,6 +22,15 @@ Good to have: commit or PR links.
 
 -->
 
+## v0.5.0 [#4](https://github.com/filtered-ai/firepad-x/pull/4/files)
+
+### Changed
+
+- Bump version of `firebase` packages to `10.1.0`.
+- Bump version of `monaco-editor` packages to `0.40.0`.
+- Bump version of `monaco-editor-webpack-plugin` packages to `7.1.0`.
+- Bump version of `typescript` packages to `4.9.5`.
+
 ## v0.3.1 [#44](https://github.com/interviewstreet/firepad-x/pull/44)
 
 ### Changed

@@ -521,13 +521,7 @@ export class MonacoAdapter implements IEditorAdapter {
   ): void {
     let readOnly: boolean;
 
-    // Support for Monaco < 0.19.0
-    if (typeof this._monaco.getConfiguration === "function") {
-      ({ readOnly } = this._monaco.getConfiguration());
-    } else {
-      // @ts-ignore - Remove this after monaco upgrade
-      readOnly = this._monaco.getOption(monaco.editor.EditorOption.readOnly);
-    }
+    readOnly = this._monaco.getOption(monaco.editor.EditorOption.readOnly);
 
     if (readOnly) {
       this._monaco.updateOptions({ readOnly: false });
