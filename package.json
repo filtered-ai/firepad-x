@@ -37,8 +37,8 @@
     "node": ">= 10.17.0"
   },
   "peerDependencies": {
-    "firebase": "10.1.0",
-    "monaco-editor": "0.40.0"
+    "firebase": ">= 9.6.0",
+    "monaco-editor": "> 0.19.0"
   },
   "dependencies": {
     "@operational-transformation/plaintext": "0.1.1",
